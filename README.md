@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋这是一个简单的游戏而已(应该算不上游戏)，没有图形化
 
 <!--
 **OyamaMihari/oyamamihari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
